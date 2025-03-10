@@ -28,7 +28,6 @@ sentiment_classification/
 │── results/              # (Generated) Stores training results, logs and evaluation results
 │── .gitignore            # Git ignore file
 │── requirements.txt      # Python dependencies
-│── setup.py              # Installation script
 │── README.md             # Project documentation
 ```
 
