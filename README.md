@@ -13,6 +13,7 @@ sentiment_classification/
 │
 │── notebooks/
 │   ├── data_exploration.ipynb  # Jupyter Notebook for data exploration
+│   ├── inference_example.ipynb  # Jupyter Notebook for inference example
 │
 │── src/
 │   ├── cleaner.py        # Text preprocessing and cleaning functions
