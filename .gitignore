@@ -9,10 +9,5 @@ data/evaluation/
 model/
 results/
 
-# Logs & system files
-*.log
-*.csv
-*.gz
-
 # Jupyter Notebook checkpoints
 notebooks/.ipynb_checkpoints/
