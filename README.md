@@ -25,7 +25,7 @@ sentiment_classification/
 │   ├── utils.py          # Utility functions (e.g., tokenization, dataset parsing)
 │
 │── model/                # (Generated) Stores trained model files
-│── results/              # (Generated) Stores training results and logs
+│── results/              # (Generated) Stores training results, logs and evaluation results
 │── .gitignore            # Git ignore file
 │── requirements.txt      # Python dependencies
 │── setup.py              # Installation script
