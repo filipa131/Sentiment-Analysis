@@ -38,8 +38,8 @@ sentiment_classification/
 Clone the repository and install required packages:
 
 ```bash
-git clone https://github.com/filipa131/sentiment_classification.git
-cd sentiment_classification
+git clone https://github.com/filipa131/Sentiment-Analysis.git
+cd Sentiment-Analysis
 pip install -r requirements.txt
 ```
 
